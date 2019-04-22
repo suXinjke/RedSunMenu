@@ -1,0 +1,18 @@
+@import url( 'https://fonts.googleapis.com/css?family=Play:400,700' );
+@font-face {
+    font-family: 'Colony Wars';
+    src: url( '~@/assets/colony_wars.ttf' )
+}
+
+$color-background: black;
+$color-font-primary: rgb( 0, 252, 255 );
+$color-font-secondary: rgb( 0, 161, 212 );
+
+$color-primary: rgb( 0, 184, 243 );
+$color-secondary: rgb( 0, 56, 73 );
+$color-disabled: rgb( 0, 28, 36 );
+$color-border: rgb( 0, 0, 199 );
+
+$spacing: 4px;
+$corner-radius: 16px;
+$menu-controls-animation-duration: 0.3s;
